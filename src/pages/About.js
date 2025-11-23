@@ -4,15 +4,15 @@ export default function About() {
       <h1 className="text-3xl font-bold">About HealthTrack</h1>
 
       <p className="text-slate-600">
-        HealthTrack is a simple wellness tracking app built using React and
-        Tailwind. It helps users understand their habits and improve their
-        lifestyle.
+        HealthTrack is a user-friendly wellness tracking platform
+        created with React and Tailwind. It enables users to monitor their daily
+        habits and improve their overall lifestyle.
       </p>
 
       <p className="text-slate-600">
-        This project was built for an Advanced Web Programming assignment to
-        demonstrate: React components, routing, Tailwind CSS, responsive UI, and
-        local storage.
+        This project was built for an Advanced Web Programming task
+        to highlight React components, routing, Tailwind styling,
+        responsive UI, and local storage usage.
       </p>
     </section>
   );
